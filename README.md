@@ -48,7 +48,7 @@ To install and run the project locally, follow these steps:
 
 ### Backend Setup
 
-1. Clone the repository: `git clone https://github.com/eshaalal/blogging-mern.git`
+1. Clone the repository: `git clone https://github.com/Harsh1428rao/blog_karo.git `
 2. Navigate to the `backend` directory: `cd blogging-website-backend`
 3. Install dependencies: `npm install`
 4. Configure environment variables:
@@ -85,4 +85,4 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 ## Contact
 
-For any inquiries or support, please contact us at [eshalal9693@gmail.com](mailto:eshalal9693@gmail.com)
+For any inquiries or support, please contact us at [hrao1428@gmail.com](mailto:hrao1428@gmail.com)
